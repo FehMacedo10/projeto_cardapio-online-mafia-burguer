@@ -25,18 +25,19 @@ Mafia Burguer é um projeto de cardápio online que permite aos usuários explor
 ## 📁 Estrutura do Projeto
   
   ``` bash
-  ├── assets/ # Imagens e logos 
+  mafia-burguer/
+  ├── assets/ # # Contém imagens e logos utilizados no projeto
   │ 
   ├── bg.png # Imagem de fundo 
   │ 
   ├── hamb-1.png # Imagem do Hamburguer Smash 
   │ 
   ├── ... # Outras imagens de produtos 
-  ├── styles/ # Estilos CSS 
+  ├── styles/ # Contém os estilos CSS do projeto
   │ 
   └── output.css # Arquivo CSS gerado pelo Tailwind 
   ├── index.html # Página principal
-  ├── script.js # Lógica do carrinho 
+  ├── script.js # Lógica do carrinho de compras e interações 
   └── tailwind.config.js # Configuração do Tailwind CSS
   ```
 
