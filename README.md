@@ -24,6 +24,7 @@ Mafia Burguer é um projeto de cardápio online que permite aos usuários explor
 
 ## 📁 Estrutura do Projeto
   
+  ``` bash
   ├── assets/ # Imagens e logos 
   │ 
   ├── bg.png # Imagem de fundo 
@@ -37,7 +38,8 @@ Mafia Burguer é um projeto de cardápio online que permite aos usuários explor
   ├── index.html # Página principal
   ├── script.js # Lógica do carrinho 
   └── tailwind.config.js # Configuração do Tailwind CSS
-  
+  ```
+
 ## 📦 Instalação
 
 Para executar o projeto localmente, siga os passos abaixo:
