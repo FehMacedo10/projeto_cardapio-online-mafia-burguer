@@ -26,7 +26,7 @@ Mafia Burguer é um projeto de cardápio online que permite aos usuários explor
   
   ``` bash
   mafia-burguer/
-  ├── assets/ # # Contém imagens e logos utilizados no projeto
+  ├── assets/ # Contém imagens e logos utilizados no projeto
   │ 
   ├── bg.png # Imagem de fundo 
   │ 
